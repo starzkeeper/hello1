@@ -1,2 +1,1 @@
-print('hello')
-ahahhahah
+ya eblan
